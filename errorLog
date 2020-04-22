@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "Networksniffer.py", line 337, in <module>
+    filter(firstTime)
+  File "Networksniffer.py", line 139, in filter
+    filterKey = raw_input(red_color+"filter"+blue_color+"@packetsniffer >"+end_color).strip()
+KeyboardInterrupt
